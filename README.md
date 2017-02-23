@@ -47,5 +47,5 @@ An addicting browser game with flying sushi. Your goal is to dodge the flying su
 
  - [Github](https://www.github.com/dischorde)
  - [Email](mailto:contact@katarinarossi.com)
- - [LinkedIn](ttps://www.linkedin.com/in/katarinarossi)
+ - [LinkedIn](https://www.linkedin.com/in/katarinarossi)
  - [Resume](http://www.katarinarossi.com/images/katarina-rossi-resume.pdf)
